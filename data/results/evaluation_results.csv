@@ -1,0 +1,15 @@
+No,Query,Expected_Category,Predicted_Category,Expected_Escalation,Predicted_Escalation,Retrieved_Source,Retrieved_Page
+1,I am bleeding during pregnancy.,Vaginal bleeding,Vaginal bleeding,Level 3 - Urgent / Emergency referral,Level 3 - Urgent / Emergency referral,WHO_Essential_Practice_2023.pdf,25
+2,There is blood coming from my vagina.,Vaginal bleeding,Vaginal bleeding,Level 3 - Urgent / Emergency referral,Level 3 - Urgent / Emergency referral,WHO_Essential_Practice_2023.pdf,167
+3,I noticed blood on my underwear today.,Vaginal bleeding,Vaginal bleeding,Level 3 - Urgent / Emergency referral,Level 3 - Urgent / Emergency referral,WHO_Essential_Practice_2023.pdf,64
+4,I have a severe headache during pregnancy.,Severe headache / possible pre-eclampsia,Severe headache / possible pre-eclampsia,Level 3 - Urgent / Emergency referral,Level 3 - Urgent / Emergency referral,WHO_Essential_Practice_2023.pdf,44
+5,My head is hurting badly and my vision is blurry.,Severe headache / possible pre-eclampsia,Severe headache / possible pre-eclampsia,Level 3 - Urgent / Emergency referral,Level 3 - Urgent / Emergency referral,WHO_Essential_Practice_2023.pdf,46
+6,My baby has stopped moving today.,Reduced fetal movement,Reduced fetal movement,Level 3 - Urgent / Emergency referral,Level 3 - Urgent / Emergency referral,WHO_Antenatal_Care_2016.pdf,71
+7,I have not felt the baby move for several hours.,Reduced fetal movement,Reduced fetal movement,Level 3 - Urgent / Emergency referral,Level 3 - Urgent / Emergency referral,WHO_Antenatal_Care_2016.pdf,72
+8,Blood dey come out during pregnancy.,Vaginal bleeding,Vaginal bleeding,Level 3 - Urgent / Emergency referral,Level 3 - Urgent / Emergency referral,WHO_Essential_Practice_2023.pdf,25
+9,I see blood for my wrapper today.,Vaginal bleeding,Vaginal bleeding,Level 3 - Urgent / Emergency referral,Level 3 - Urgent / Emergency referral,WHO_Essential_Practice_2023.pdf,64
+10,Head dey pain me well-well.,Severe headache / possible pre-eclampsia,Severe headache / possible pre-eclampsia,Level 3 - Urgent / Emergency referral,Level 3 - Urgent / Emergency referral,WHO_Essential_Practice_2023.pdf,46
+11,My eye dey blur and my body dey swell.,Severe headache / possible pre-eclampsia,Severe headache / possible pre-eclampsia,Level 3 - Urgent / Emergency referral,Level 3 - Urgent / Emergency referral,WHO_Essential_Practice_2023.pdf,4
+12,My baby no dey move today.,Reduced fetal movement,Reduced fetal movement,Level 3 - Urgent / Emergency referral,Level 3 - Urgent / Emergency referral,WHO_Antenatal_Care_2016.pdf,71
+13,I feel tired today.,Unknown / unsupported,Unknown / unsupported,Level 1 - Safe fallback,Level 1 - Safe fallback,WHO_Essential_Practice_2023.pdf,45
+14,I no just feel fine.,Unknown / unsupported,Unknown / unsupported,Level 1 - Safe fallback,Level 1 - Safe fallback,WHO_Essential_Practice_2023.pdf,45

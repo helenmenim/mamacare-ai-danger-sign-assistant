@@ -1,0 +1,15 @@
+No,User_Expression,Language,Expression_Type,Expected_Category,Expected_Escalation,Supporting_Source
+1,I am bleeding during pregnancy.,English,Direct,Vaginal bleeding,Level 3 - Urgent / Emergency referral,"WHO Essential Practice (2023), p.25"
+2,There is blood coming from my vagina.,English,Direct,Vaginal bleeding,Level 3 - Urgent / Emergency referral,"WHO Essential Practice (2023), p.25"
+3,I noticed blood on my underwear today.,English,Indirect,Vaginal bleeding,Level 3 - Urgent / Emergency referral,"WHO Essential Practice (2023), p.25"
+4,I have a severe headache during pregnancy.,English,Direct,Severe headache / possible pre-eclampsia,Level 3 - Urgent / Emergency referral,"WHO Essential Practice (2023), p.44"
+5,My head is hurting badly and my vision is blurry.,English,Indirect,Severe headache / possible pre-eclampsia,Level 3 - Urgent / Emergency referral,"WHO Essential Practice (2023), p.44"
+6,My baby has stopped moving today.,English,Direct,Reduced fetal movement,Level 3 - Urgent / Emergency referral,WHO Antenatal Care (2016)
+7,I have not felt the baby move for several hours.,English,Indirect,Reduced fetal movement,Level 3 - Urgent / Emergency referral,WHO Antenatal Care (2016)
+8,Blood dey come out during pregnancy.,Nigerian Pidgin,Direct,Vaginal bleeding,Level 3 - Urgent / Emergency referral,"WHO Essential Practice (2023), p.25"
+9,I see blood for my wrapper today.,Nigerian Pidgin,Indirect,Vaginal bleeding,Level 3 - Urgent / Emergency referral,"WHO Essential Practice (2023), p.25"
+10,Head dey pain me well-well.,Nigerian Pidgin,Direct,Severe headache / possible pre-eclampsia,Level 3 - Urgent / Emergency referral,"WHO Essential Practice (2023), p.44"
+11,My eye dey blur and my body dey swell.,Nigerian Pidgin,Indirect,Severe headache / possible pre-eclampsia,Level 3 - Urgent / Emergency referral,"WHO Essential Practice (2023), p.44"
+12,My baby no dey move today.,Nigerian Pidgin,Direct,Reduced fetal movement,Level 3 - Urgent / Emergency referral,WHO Antenatal Care (2016)
+13,I feel tired today.,English,Ambiguous,Unknown / unsupported,Level 1 - Safe fallback,No direct WHO danger-sign evidence
+14,I no just feel fine.,Nigerian Pidgin,Ambiguous,Unknown / unsupported,Level 1 - Safe fallback,No direct WHO danger-sign evidence
